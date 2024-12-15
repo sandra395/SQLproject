@@ -1,0 +1,27 @@
+﻿Company ID,Internship Name,Internship ID,Sector,Department,Brief Description,Primary Skill Required,Secondary Skill Required,Thirly Skill Required
+10001,Trading Analyst,10001201,Oil and Gas,Trading,"To Support the senior traders, calculate spreads between expires",Quick Learner,Organized,Communication
+10001,Accountant,10001202,Oil and Gas,Accounting,To maintain the accounts considering the expenditures and the Sales,Organized,Logical,Team Work
+10002,M&A Analyst,10002203,Banking,M&A,Analyzing companies and synergies between companies,Team Work,Organized,Sales
+10002,Credit Analyst,10002204,Banking,Credit Risk,Analyzing credit for the individuals that apply for a loan,Logical,Organized,Team Work
+10003,Legal Counsel,10003205,Financial Services,Legal,Helping the senior lawyers to organized the information,Communication,Organized,Punctual
+10003,Performance Data Analyst,10003206,Financial Services,Fund Investment,Analyzing the performance of the different funds ,Logical,Organized,Communication
+10004,Digital Designer,10004207,Insurance,Marketing,Helping the marketing department to improve the website,Creative,Technology,Team Work
+10004,Client Support,10004208,Insurance,Client Services,Helping the customers and their queries,Communication,Technology,Team Work
+10005,Purchase Analyst,10005209,Retail,Purchase,Analyzing different providers to choose the best products,Organized,Logical,Team Work
+10005,Insight Executive,10005210,Retail,Administration,Helping executives with their schedules and meetings,Communication,Organized,Punctual
+10006,Medical Investigation,10006211,Pharmaceuticals,Research,Analysing different components in trial patients,Logical,Organized,Communication
+10006,Laboratory Study,10006212,Pharmaceuticals,Research,Testing new components or formulas from a lab perspective,Organized,Logical,Communication
+10007,Business Analyst,10007213,Banking,Mortgage Services,"Analyzing the strenght, weakness and opportunities of the mortgage dept",Logical,Communication,Organized
+10007,Application Support,10007214,Banking,Digital Banking,"Helping clients with the online services, or issues with website or apps",Technology,Communication,Organized
+10008,Audit Analyst,10008215,Professional Services,Auditing,Checking that the accountancy done by the companies show the real values,Organized,Logical,Technology
+10008,Accountant,10008216,Professional Services,Accounting,Keeping track of the cash flows of the company,Organized,Team Work,Logical
+10009,Nutricionist,10009217,Food Service,Food planning,Trying to adapt new formulas to the existing products or creating new ones,Logical,Communication,Logical
+10009,Sales,10009218,Food Service,Sales,Trying to make deals with different supermarkets to sell the products,Sales,Communication,Punctual
+10010,Architech,10010219,Property Development,New Developments,Designing buildings with their structure calculation,Design,Logical,Organized
+10010,Sales Advisor,10010220,Property Development,Sales Services,Advising potential customers to sell the properties available,Sales,Communication,Team Work
+10011,Nurse,10011221,Healthcare,Nurse,Helping patients and doctors,Communication,Organized,Team Work
+10011,Doctor,10011222,Healthcare,Medicine,Helping senior doctors to diagnose patients and following up with them,Organized,Logical,Quick Learner
+10012,Graphic Designer,10012223,Graphic Design,Creative,Creative role to meet the client demands,Creative,Communication,Team Work
+10012,UI/UX ,10012224,Graphic Design,Creative,Designing websites to meet the client demands,Creative,Technology,Programming
+10013,Nutricionist,10013225,Wellness and Fitness,Nutrition,Designing specific nutrition programmes for customers,Organized,Communication,Logical
+10013,Personal Trainer,10013226,Wellness and Fitness,Fitness,Designing specific fitness sessions for customers,Communication,Organized,Sales

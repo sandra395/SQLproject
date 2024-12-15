@@ -1,0 +1,14 @@
+﻿Company ID,Name,Sector,Number of employees,Publicly traded,Private Company
+10001,BP,Oil and Gas,65900,1,0
+10002,HSBC,Banking,219763,1,0
+10003,Legal and General,Financial Services,10743,1,0
+10004,Aviva,Insurance,22062,1,0
+10005,Tesco,Retail,345000,1,0
+10006,GlaxoSmithKline,Pharmaceuticals,90096,1,0
+10007,Barclays,Banking,81600,1,0
+10008,Deloitte,Professional Services,345000,0,1
+10009,Compass Group,Food Service,480000,1,0
+10010,Barratt Developments,Property Development,6655,1,0
+10011,HCA Healthcare,Healthcare,204000,1,0
+10012,Pentagram,Graphic Design,170,0,1
+10013,GLL,Wellness and Fitness,13500,0,1
