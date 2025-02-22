@@ -7,8 +7,8 @@ In the CreateTable.sql script, I created the database and defined the necessary 
 For the data, I used Microsoft Excel to generate CSV files containing the relevant information for each table. These CSV files were then imported into MySQL Workbench, where the data was loaded into the database. The tables include: 
 
 Students (shows student personal data), 
-Skills (calcification of different skills done by teachers for each Student), 
-Marks (calcification in different subjects), 
+Skills (qualification of different skills done by teachers for each Student), 
+Marks (qualification in different subjects), 
 Companies (list of companies data), 
 Internships (list of internships available)
 
